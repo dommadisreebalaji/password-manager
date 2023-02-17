@@ -1,0 +1,35 @@
+.check-box-container {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 10px;
+}
+.input-check-box {
+  height: 20px;
+  width: 20px;
+}
+.label {
+  font-size: 20px;
+}
+.password-list-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.password-list-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.no-password-image {
+  width: 400px;
+}
+p {
+  font-size: 20px;
+}
+.no-password {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
